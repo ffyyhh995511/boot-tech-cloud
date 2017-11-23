@@ -13,3 +13,9 @@
 /service-hello/.classpath
 /service-hello/.project
 
+/consumer-hello/.settings
+/consumer-hello/target
+/consumer-hello/.classpath
+/consumer-hello/.project
+
+

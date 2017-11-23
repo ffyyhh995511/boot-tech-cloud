@@ -56,5 +56,6 @@
 		<module>service-discovery</module>
 		
 		<module>service-hello</module>
+		<module>consumer-hello</module>
 	</modules>
 </project>
