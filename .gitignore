@@ -1,0 +1,15 @@
+/target/
+/.settings
+.classpath
+.project
+
+/service-discovery/.settings
+/service-discovery/target
+/service-discovery/.classpath
+/service-discovery/.project
+
+/service-hello/.settings
+/service-hello/target
+/service-hello/.classpath
+/service-hello/.project
+
