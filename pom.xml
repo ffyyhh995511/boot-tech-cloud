@@ -57,5 +57,8 @@
 		
 		<module>service-hello</module>
 		<module>consumer-hello</module>
+		<module>product-service</module>
+		<module>mall-web</module>
+		<module>hystrix-dashboard</module>
 	</modules>
 </project>

@@ -18,4 +18,17 @@
 /consumer-hello/.classpath
 /consumer-hello/.project
 
+/mall-web/.settings
+/mall-web/target
+/mall-web/.classpath
+/mall-web/.project
 
+/product-service/.settings
+/product-service/target
+/product-service/.classpath
+/product-service/.project
+
+/hystrix-dashboard/.settings
+/hystrix-dashboard/target
+/hystrix-dashboard/.classpath
+/hystrix-dashboard/.project
