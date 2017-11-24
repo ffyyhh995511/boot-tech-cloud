@@ -60,5 +60,7 @@
 		<module>product-service</module>
 		<module>mall-web</module>
 		<module>hystrix-dashboard</module>
+		<module>zuul-server</module>
+		<module>user-service</module>
 	</modules>
 </project>

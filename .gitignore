@@ -32,3 +32,13 @@
 /hystrix-dashboard/target
 /hystrix-dashboard/.classpath
 /hystrix-dashboard/.project
+
+/zuul-server/.settings
+/zuul-server/target
+/zuul-server/.classpath
+/zuul-server/.project
+
+/user-service/.settings
+/user-service/target
+/user-service/.classpath
+/user-service/.project
